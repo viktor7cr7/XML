@@ -1,1 +1,12 @@
-
+<BugReport/>
+  <title>Описание страницы не переведено на локальный язык</title>
+    <Project>Интернет-магазин</Project>
+     <Description>Открыта главная страница сайта  aliexpress.ru , нас интересует язык пользователя (русский)</Description>
+       <StepsToReproduce>Навести курсор на вкладку "Помощь" , и кликнуть на раздел "Сообщить о нарушении авторских прав"</StepsToReproduce>
+         <Result>Страница на китайском языке, в разделе перевода языка нет возможности перевести на Русский язык</Result>
+           <ExpectedResult>Страница отображается корректно, на Русском языке пользователя</ExpectedResult>
+             <Environment> Windows 10 Home .64-x Opera V.82.0.4227.43</Environment>
+               <Priority>Medium</Priority>
+                 <Reporter>Leonov</Reporter>
+  
+   <BugReport>
