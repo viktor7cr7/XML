@@ -1,6 +1,6 @@
-<About me>
-  <NAME>Leonov Viktor Konstantinovich</NAME>
-   <AGE>24</AGE>
-   <Number of pets>4</Number of pets>
-   <Future desired salary>500$</Future desired salary>
-<About me>
+<aboutme>
+  <name>LeonovViktorKonstantinovich</name>
+   <age>24</age>
+   <numberpets>4</numberpets>
+   <futuresalary>500$</futuresalary>
+<aboutme>
